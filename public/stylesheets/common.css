@@ -1,0 +1,24 @@
+@media only screen and (max-width: 650px) {
+  [class*="line"]{
+    top: -1%;
+    widrh:50%;
+  }
+  .firstone4{
+    height:21%;
+  }
+  .cornerleftp2{
+    height:25%;
+  }
+  .cornerlastp3{
+    width:72%;
+  }
+  [class*="foothead"], .footertextblock p{
+    font-size:1.4vh;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  [class*="foothead"], .footertextblock p{
+    font-size:1.1vh;
+  }
+}
